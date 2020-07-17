@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Rick | Mobile eCommerce HTML Template</title>
-    <meta name="description" content="">
+    <title>Yashar Perfume - یاشار پرفیوم | فروشگاه اینترنتی یاشار</title>
+    <meta name="description" content="فروشگاه اینترنتی یاشار پرفیوم مرجع تخصصی عطر و ادکلن.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
     <link rel="icon" href="assets/img/favicon.ico">
